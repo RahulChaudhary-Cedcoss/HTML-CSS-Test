@@ -1,0 +1,44 @@
+h1, p {
+    display: inline-block;
+}
+.p1 {
+    float:right ;
+}
+.header {
+    background-color:hsl(220deg 41% 43%);
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.leftcontent {
+    float: left;
+    background-color: antiquewhite;
+    width: 50%;
+    padding-top: 1%;
+}
+.rightcontent {
+    float: right;
+    /* background-color: red; */
+    width: 48%;
+    
+}
+.p2 {
+    font-size: 20px;
+    color: black;
+    padding-left: 2%;
+}
+#button {
+    padding: 1% 4%;
+    background-color: green;
+    color: white;
+}
+#fName, #lName {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#Mnumber ,#Npassword{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 30%;
+
+}
